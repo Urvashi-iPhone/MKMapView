@@ -96,7 +96,7 @@
 }
 -(void)showDetailsView
 {
-    NSLog(@"Ganpati Bapa Morya");
+    NSLog(@"click");
 }
 
 - (MKOverlayView *)mapView:(MKMapView *)mapView viewForOverlay:(id <MKOverlay>)overlay {
